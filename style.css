@@ -1,0 +1,78 @@
+.text{
+    display: flex;
+}
+ .text img{
+    width: 10px;
+    height: 6px;
+}
+ .text p{
+    margin-top: 0px;
+    font-size: 5px;
+    color: aliceblue;
+}
+*{
+    background-color: black;
+}
+.text1 h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+.text1 img{
+    width: 200px;
+    height: 165px;
+    margin-bottom: 0px;
+}
+.text1 {
+    display: flex;
+}
+ .text1 button{
+    color: aliceblue;
+    background-color: cyan;
+    border-radius: 3px;
+    font-size: 5px;
+    margin-bottom: 30px;
+    margin-top: 130px;
+    margin-left: -310px;
+   
+}
+hr{
+    color: dimgray;
+
+}
+.text2 h4{
+
+    color: aliceblue;
+    font-size: 10px;
+    margin-left: 70px;
+
+}
+.text2 p{
+    font-size: 10px;
+    margin-left: 70px;
+    color: aliceblue;
+}
+
+
+.text4 h2 {
+    color: white;
+     font-size: 10px;
+     margin-left: 100px;
+     
+}
+
+
+.text3  h3 da{
+    font-size: 10px;
+    color: darkslategray;
+    opacity: inherit;
+    color: aliceblue;
+} 
+
+
